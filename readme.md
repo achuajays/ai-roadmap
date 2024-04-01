@@ -37,6 +37,3 @@ This is a Streamlit application that utilizes the OpenAI API to generate respons
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any problems or have suggestions for improvements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
