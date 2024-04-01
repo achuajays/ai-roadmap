@@ -1,5 +1,4 @@
-# OpenAI Chatbot Streamlit Application
-
+# OpenAI RoadMap Recommender Chatbot
 This is a Streamlit application that utilizes the OpenAI API to generate responses based on user prompts using the GPT-3.5 model.
 
 ## Installation
@@ -32,7 +31,7 @@ This is a Streamlit application that utilizes the OpenAI API to generate respons
 
 2. Access the application in your web browser.
 
-3. Enter a prompt in the text input field and click the submit button to generate a response from the OpenAI chatbot.
+3. Enter a prompt in the text input field and click the submit button to generate a  correct roadmap.
 
 ## Contributing
 
