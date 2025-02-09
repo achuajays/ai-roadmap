@@ -1,4 +1,4 @@
-# OpenAI RoadMap Recommender Chatbot
+# GROQ RoadMap Recommender Chatbot
 This is a Streamlit application that utilizes the OpenAI API to generate responses based on user prompts using the GPT-3.5 model.
 
 ## Installation
@@ -15,10 +15,10 @@ This is a Streamlit application that utilizes the OpenAI API to generate respons
     pip install -r requirements.txt
     ```
 
-3. Create a `.env` file in the root directory of the project and add your OpenAI API key:
+3. Export GROQ API key:
 
     ```plaintext
-    api_key=your_openai_api_key_here
+    GROQ_API_KEY=your_groq_api_key_here
     ```
 
 ## Usage
